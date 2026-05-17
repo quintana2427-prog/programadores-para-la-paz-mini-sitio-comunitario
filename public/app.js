@@ -27,7 +27,7 @@ async function cargarMensajes() {
 
     for (const mensaje of mensajes) {
       const tarjeta = document.createElement("article")
-      tarjeta.classList.add("tarjeta-mensaje")
+      tarjeta.classList.add("tarjeta", "tarjeta-mensaje")
 
       tarjeta.innerHTML = `
         <h3>${mensaje.titulo}</h3>

@@ -4,12 +4,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Mini-sitio comunitario</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
-    <h1 class="decoracion">MINI-SITIO COMUNITARIO.</h1>
-    <p>
+    <h1 class="decoracion">Mini-sitio comunitario</h1>
+    <p class="colordeparrafo">
       Proyecto único de Semana 5 para difusión responsable, calendario editorial e integración Frontend-Backend.
     </p>
   </header>
@@ -27,10 +30,9 @@
       <p>
         Esta sección funciona como vitrina comunitaria. Los mensajes se cargan desde la API propia.
       </p>
-      <button id="btnMensajes">Cargar mensajes</button>
-      <div id="contenedorMensajes" class="tablero">
-        Aquí aparecerán los mensajes comunitarios.
-      </div>
+      <button type="button" id="btnMensajes" class="btn-espectacular">Cargar mensajes</button>
+      <div id="contenedorMensajes" class="tablero tarjeta">
+        Aquí aparecerán los mensajes comunitarios.</div>
     </section>
 
     <section>
@@ -38,10 +40,9 @@
       <p>
         El calendario editorial se consulta desde el backend y permite organizar publicaciones responsables.
       </p>
-      <button id="btnCalendario">Cargar calendario</button>
-      <div id="contenedorCalendario" class="tablero">
-        Aquí aparecerán las piezas del calendario editorial.
-      </div>
+      <button id="btnCalendario" class="btn-espectacular">Cargar calendario</button>
+      <div id="contenedorCalendario" class="tablero tarjeta">
+       Aquí aparecerán las piezas del calendario editorial. </div>
     </section>
 
     <section>
@@ -49,8 +50,8 @@
       <p>
         Esta sección muestra un resumen generado por el backend a partir de los datos del proyecto.
       </p>
-      <button id="btnResumen">Cargar resumen</button>
-      <div id="contenedorResumen" class="tablero">
+      <button id="btnResumen" class="btn-espectacular">Cargar resumen</button>
+      <div id="contenedorResumen" class="tablero tarjeta">
         Aquí aparecerá el resumen del proyecto.
       </div>
     </section>
