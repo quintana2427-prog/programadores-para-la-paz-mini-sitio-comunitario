@@ -1,8 +1,8 @@
 Reflexión sobre transferencia tecnológica – Clase 24
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Luis Quintana Avila 
+Fecha: 26/05/2026
+Nombre de la rama: luis-quintana
 
 Escribe una reflexión de 8 a 10 líneas respondiendo:
 
@@ -24,4 +24,7 @@ En tu respuesta menciona al menos cinco de estas ideas:
 - participación ciudadana
 - cultura de paz
 
-Respuesta:
+Respuesta: Pienso que documentar un proyecto comunitario es importante porque ayuda a que otras personas entiendan cómo funciona y puedan continuar el trabajo después.
+ El README sirve para explicar las instrucciones, tecnologías y objetivos del proyecto, dando más claridad operativa. También aprendí que la documentación como transparencia ayuda a generar confianza comunitaria porque todo queda más organizado y verificable.
+  La trazabilidad en Git y los commits claros permiten ver los avances y cambios realizados durante el proyecto. Además, el uso responsable de IA ayuda a recibir apoyo verificable de IA sin copiar información incorrecta. También es importante no exponer credenciales ni publicar información sensible de la comunidad.
+   Todo esto fortalece la participación ciudadana y ayuda a construir una cultura de paz mediante una comunicación más clara y responsable.

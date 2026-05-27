@@ -1,8 +1,8 @@
 Registro de uso verificable de IA – Clase 24
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Luis Qintana Avila
+Fecha: 26/05/2026
+Nombre de la rama: luis-quintana
 
 Importante:
 La IA puede ayudar a mejorar claridad, ordenar pasos y revisar redacción, pero toda sugerencia debe verificarse en el proyecto real.
@@ -18,32 +18,32 @@ No debes compartir con IA:
 1. ¿Para qué usaste IA en esta clase?
 Ejemplos: mejorar README, organizar pasos de ejecución, aclarar error, revisar redacción.
 
-Respuesta:
+Respuesta: sé la IA en Cursor para mejorar el diseño visual del mini-sitio y hacer que los títulos se vieran más modernos y llamativos usando CSS.
 
 2. Escribe la pregunta que hiciste a la IA:
 
-Respuesta:
+Respuesta:  Le pedí ayuda para mejorar los títulos del proyecto porque no me gustaba cómo se veían y quería un diseño más impresionante y moderno.
 
 3. Resume la respuesta recibida:
 
-Respuesta:
+Respuesta: La IA revisó mi archivo styles.css, corrigió un error y propuso un diseño más moderno usando tipografías, gradientes, sombras y estilos diferentes para el título principal y los subtítulos.
 
 4. ¿Qué parte de la respuesta aplicaste?
 
-Respuesta:
+Respuesta: Apliqué cambios en la tipografía, colores, gradientes, sombras y estilos visuales de los títulos para mejorar la apariencia del mini-sitio.
 
 5. ¿Qué parte decidiste no aplicar?
 
-Respuesta:
+Respuesta: No apliqué algunos efectos más exagerados porque preferí mantener un diseño más limpio y fácil de leer.
 
 6. ¿Cómo verificaste en el proyecto que la sugerencia era correcta?
 
-Respuesta:
+Respuesta: revisando visualmente que los títulos y estilos se vieran correctamente en el navegador.
 
 7. ¿Incluiste datos sensibles o credenciales reales en la consulta?
 
-Respuesta:
+Respuesta: No. Solo compartí partes del diseño y estilos CSS del proyecto.
 
 8. ¿Qué aprendiste sobre uso responsable de IA?
 
-Respuesta:
+Respuesta: Aprendí que la IA puede ayudar mucho a mejorar el diseño y solucionar errores, pero siempre es importante revisar y probar los cambios antes de usarlos en el proyecto.

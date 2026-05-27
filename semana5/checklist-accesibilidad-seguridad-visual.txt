@@ -1,8 +1,8 @@
 Checklist de accesibilidad y seguridad visual – Clase 22
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Luis Quintana Avila 
+Fecha: 26/05/2026
+Nombre de la rama: luis-quintana 
 
 Marca SÍ o NO y explica brevemente.
 
@@ -10,58 +10,58 @@ Marca SÍ o NO y explica brevemente.
 
 ¿La interfaz funciona como vitrina comunitaria clara?
 
-Respuesta:
+Respuesta: Sí, porque los mensajes están organizados en tarjetas y la información se entiende fácilmente.
 
 2. Accesibilidad mínima
 
 ¿Los títulos son comprensibles y las secciones están separadas?
 
-Respuesta:
+Respuesta: Sí, los títulos son claros y las secciones están bien divididas visualmente.
 
 3. Legibilidad
 
 ¿Los textos se pueden leer con facilidad?
 
-Respuesta:
+Respuesta: Sí, el tamaño de letra y el espacio entre elementos permiten leer cómodamente.
 
 4. Contraste suficiente
 
 ¿El texto se distingue del fondo?
 
-Respuesta:
+Respuesta: Sí, los colores usados permiten diferenciar bien el texto del fondo.
 
 5. Jerarquía visual
 
 ¿Se entiende qué información es principal y qué información es secundaria?
 
-Respuesta:
+Respuesta: Sí, los títulos resaltan más y los datos secundarios aparecen organizados debajo.
 
 6. Lenguaje claro
 
 ¿Los mensajes son comprensibles para una comunidad general?
 
-Respuesta:
+Respuesta: Sí, usan palabras sencillas y fáciles de entender.
 
 7. Organización visual coherente
 
 ¿Las tarjetas mantienen una estructura similar?
 
-Respuesta:
+Respuesta: Sí, todas las tarjetas siguen el mismo diseño y orden de información.
 
 8. Seguridad visual
 
 ¿La vista pública evita saturación, confusión o exposición innecesaria?
 
-Respuesta:
+Respuesta: Sí, la página muestra solo la información importante y no se ve saturada.
 
 9. Minimización de datos visibles
 
 ¿La página muestra solo la información necesaria?
 
-Respuesta:
+Respuesta: Sí, solo aparecen datos útiles para la comunidad y no información sensible.
 
 10. Lenguaje responsable y no estigmatizante
 
 ¿Los mensajes evitan insultos, generalizaciones, alarmismo o señalamientos sin evidencia?
 
-Respuesta:
+Respuesta: Sí, los mensajes usan un lenguaje respetuoso, preventivo y responsable.

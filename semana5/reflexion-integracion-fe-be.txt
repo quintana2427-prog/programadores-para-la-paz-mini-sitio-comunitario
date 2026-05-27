@@ -28,4 +28,8 @@ En tu respuesta menciona al menos cinco de estas ideas:
 - participación ciudadana
 - cultura de paz
 
-Respuesta:
+Respuesta: Conectar el frontend con el backend ayuda mucho porque permite que el mini-sitio muestre información dinámica y no datos escritos manualmente todo el tiempo. 
+Gracias a la integración Frontend-Backend, el frontend puede consumir la API propia y obtener datos en formato JSON.
+ Usando fetch junto con async y await, la página puede cargar mensajes dinámicos y actualizarlos fácilmente desde el backend.
+  También el render dinámico hace que la información aparezca automáticamente en el tablero sin modificar el HTML cada vez. Esto ayuda a mantener una comunicación responsable porque los mensajes pueden revisarse y actualizarse más rápido.
+   Además, la revisión de fuentes y la consistencia comunicativa permiten que la comunidad reciba información clara y organizada. Todo esto hace que el mini-sitio sea más útil para apoyar la participación ciudadana y promover una cultura de paz.

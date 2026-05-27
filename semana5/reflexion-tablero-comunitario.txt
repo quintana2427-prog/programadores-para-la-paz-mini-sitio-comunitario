@@ -1,8 +1,8 @@
 Reflexión sobre tablero comunitario – Clase 22
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:  Luis Quintana Avila
+Fecha: 26/05/2026
+Nombre de la rama: luis-quintana
 
 Escribe una reflexión de 8 a 10 líneas respondiendo:
 
@@ -24,4 +24,7 @@ En tu respuesta menciona al menos cinco de estas ideas:
 - participación ciudadana
 - cultura de paz
 
-Respuesta:
+Respuesta: Pienso que una comunidad necesita un tablero de mensajes claro y organizado porque funciona como una vitrina comunitaria donde las personas pueden informarse fácilmente.
+ La accesibilidad mínima y la legibilidad ayudan a que cualquier persona pueda entender los mensajes sin dificultad. También la jerarquía visual permite identificar rápido los títulos, avisos y llamados a la acción.
+  La seguridad visual y la minimización de datos visibles son importantes para no mostrar información innecesaria o sensible. Además, la curaduría de información ayuda a publicar contenido útil y ordenado para la comunidad. 
+  Usar un lenguaje claro y un lenguaje responsable y no estigmatizante mejora la confianza comunitaria. Todo esto ayuda a que las personas participen más y fortalece la participación ciudadana y la cultura de paz.

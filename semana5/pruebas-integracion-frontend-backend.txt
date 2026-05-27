@@ -1,21 +1,21 @@
 Pruebas de integración Frontend-Backend – Clase 23
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Luis Gregorio Quintana Avila 
+Fecha: 25/05/2026
+Nombre de la rama: luis-quintana
 
 Prueba 1: Backend activo
 
-Comando usado:
+Comando usado: 
 npm run sitio
 
 Resultado esperado:
 El servidor inicia en http://localhost:3000 y muestra las rutas disponibles.
 
-Resultado observado:
+Resultado observado: La terminal mostró que el mini-sitio comunitario estaba funcionando correctamente y aparecieron las rutas disponibles de la API.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: si
 
 Prueba 2: Ruta GET /api/mensajes
 
@@ -25,10 +25,10 @@ http://localhost:3000/api/mensajes
 Resultado esperado:
 El navegador muestra datos JSON de mensajes comunitarios.
 
-Resultado observado:
+Resultado observado: El navegador mostró correctamente los mensajes comunitarios en formato JSON con título, mensaje, categoría y fuente.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: si
 
 Prueba 3: Ruta GET /api/calendario
 
@@ -38,10 +38,10 @@ http://localhost:3000/api/calendario
 Resultado esperado:
 El navegador muestra datos JSON del calendario editorial.
 
-Resultado observado:
+Resultado observado: El navegador mostró correctamente las piezas del calendario editorial en formato JSON.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: si
 
 Prueba 4: Ruta GET /api/resumen
 
@@ -51,10 +51,10 @@ http://localhost:3000/api/resumen
 Resultado esperado:
 El navegador muestra un resumen generado por la API propia.
 
-Resultado observado:
+Resultado observado: La API mostró un resumen con total de mensajes, total de piezas y categorías encontradas.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: si
 
 Prueba 5: Frontend carga mensajes
 
@@ -64,10 +64,10 @@ Hacer clic en Cargar mensajes.
 Resultado esperado:
 El tablero muestra mensajes dinámicos desde la API.
 
-Resultado observado:
+Resultado observado: El mini-sitio cargó correctamente los mensajes comunitarios en tarjetas dinámicas.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: si
 
 Prueba 6: Frontend carga calendario
 
@@ -77,10 +77,10 @@ Hacer clic en Cargar calendario.
 Resultado esperado:
 El tablero muestra piezas del calendario desde la API.
 
-Resultado observado:
+Resultado observado: El tablero mostró correctamente las piezas del calendario editorial obtenidas desde la API.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: si
 
 Prueba 7: Frontend carga resumen
 
@@ -90,12 +90,12 @@ Hacer clic en Cargar resumen.
 Resultado esperado:
 La página muestra totales generados por el backend.
 
-Resultado observado:
+Resultado observado: La página mostró correctamente el resumen generado por el backend con los totales del proyecto.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: si 
 
 Conclusión:
 ¿Cómo comprobaste que el frontend está conectado con el backend?
 
-Respuesta:
+Respuesta: Comprobé la conexión porque el frontend cargó información dinámica desde las rutas de la API usando fetch y los datos mostrados coincidían con los archivos JSON del backend.

@@ -1,8 +1,8 @@
 Calendario editorial de 2 semanas – Clase 21
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:  Luis Qintana Avila 
+Fecha: 26/05/2026
+Nombre de la rama: luis-quintana
 
 Tema general de la campaña comunitaria:
 
@@ -10,114 +10,114 @@ Respuesta:
 
 Pieza 1
 
-Semana:
-Día:
-Fecha:
-Tema:
-Tipo de pieza:
-Canal:
-Público objetivo:
-Propósito:
-Responsable:
-Mensaje:
-Tono:
-Llamado a la acción:
-Fuente o criterio de verificación:
-Observaciones editoriales:
+Semana: 1   
+Día: lunes 
+Fecha: pendiente por definir 
+Tema: Verificación de información
+Tipo de pieza: aviso 
+Canal: Moodle o red comunitaria
+Público objetivo: comunidad general
+Propósito: Prevenir la circulación de información no verificada.
+Responsable: equipo de cominicaciones 
+Mensaje: Verifica la fuente antes de compartir información.
+Tono: preventivo
+Llamado a la acción: Verifica la fuente antes de compartir.
+Fuente o criterio de verificación: canal instalación comunitario 
+Observaciones editoriales: Confirmar fuente y fecha antes de publicar.
 ¿Usa lenguaje responsable y no estigmatizante?
-Respuesta:
+Respuesta: si
 
 Pieza 2
 
-Semana:
-Día:
-Fecha:
-Tema:
-Tipo de pieza:
-Canal:
-Público objetivo:
-Propósito:
-Responsable:
-Mensaje:
-Tono:
-Llamado a la acción:
-Fuente o criterio de verificación:
-Observaciones editoriales:
+Semana: 1
+Día: miercoles 
+Fecha:  Pendiente por definir
+Tema: Convivencia digital
+Tipo de pieza: Mensaje pedagógico
+Canal: grupo comunitario 
+Público objetivo: jovenes participantes 
+Propósito: Promover participación respetuosa en espacios digitales.
+Responsable: equipo de cominicaciones
+Mensaje: Participa con respeto y evita ataques personales.
+Tono: Pedagógico
+Llamado a la acción: Participa con respeto y evita ataques personales.
+Fuente o criterio de verificación: Equipo de comunicaciones
+Observaciones editoriales: Evitar lenguaje acusatorio o ofensivo.
 ¿Usa lenguaje responsable y no estigmatizante?
-Respuesta:
+Respuesta: si
 
 Pieza 3
 
-Semana:
-Día:
-Fecha:
-Tema:
-Tipo de pieza:
-Canal:
-Público objetivo:
-Propósito:
-Responsable:
-Mensaje:
-Tono:
-Llamado a la acción:
-Fuente o criterio de verificación:
-Observaciones editoriales:
+Semana: 1
+Día:  viernes 
+Fecha: Pendiente por definir
+Tema: Participación ciudadana
+Tipo de pieza: convocatoria 
+Canal: Mini-sitio comunitario
+Público objetivo: comunidad general 
+Propósito: Invitar a la comunidad a enviar propuestas claras.
+Responsable: docentes de las comunicaciones
+Mensaje: Envía una propuesta clara y con propósito comunitario.
+Tono: convocantes 
+Llamado a la acción: Envía una propuesta clara y organizada.
+Fuente o criterio de verificación: formulario comunitario 
+Observaciones editoriales: Revisar propuestas antes de publicarlas
 ¿Usa lenguaje responsable y no estigmatizante?
-Respuesta:
+Respuesta: si
 
 Pieza 4
 
-Semana:
-Día:
-Fecha:
-Tema:
-Tipo de pieza:
-Canal:
-Público objetivo:
-Propósito:
-Responsable:
-Mensaje:
-Tono:
-Llamado a la acción:
-Fuente o criterio de verificación:
-Observaciones editoriales:
+Semana:2
+Día: lunes 
+Fecha:Pendiente por definir
+Tema: Seguimiento comunitario
+Tipo de pieza: resumen
+Canal: Mini-sitio comunitario
+Público objetivo: lideres comunitarios
+Propósito: Mostrar avances sin exponer datos sensibles.
+Responsable: Equipo técnico y comunicaciones
+Mensaje: Revisa las categorías más frecuentes del proyecto.
+Tono: imformativo 
+Llamado a la acción: Consulta el resumen del proyecto.
+Fuente o criterio de verificación: API comunitaria 
+Observaciones editoriales: No publicar información sensible.
 ¿Usa lenguaje responsable y no estigmatizante?
-Respuesta:
+Respuesta: si 
 
 Pieza 5
 
-Semana:
-Día:
-Fecha:
-Tema:
-Tipo de pieza:
-Canal:
-Público objetivo:
-Propósito:
-Responsable:
-Mensaje:
-Tono:
-Llamado a la acción:
-Fuente o criterio de verificación:
-Observaciones editoriales:
+Semana: 2
+Día: miercoles 
+Fecha: Pendiente por definir
+Tema: Lenguaje responsable
+Tipo de pieza: recordatorio 
+Canal: Red comunitaria
+Público objetivo: jovenes participantes
+Propósito: Reforzar el uso de lenguaje responsable.
+Responsable: docentes de comunicaciones
+Mensaje: Evita mensajes ofensivos o estigmatizantes.
+Tono: pedagógico
+Llamado a la acción: Usa lenguaje respetuoso en espacios digitales.
+Fuente o criterio de verificación: Reglas editoriales mínimas
+Observaciones editoriales: Incluir ejemplos de buena redacción.
 ¿Usa lenguaje responsable y no estigmatizante?
-Respuesta:
+Respuesta: si
 
 Pieza 6
 
-Semana:
-Día:
-Fecha:
-Tema:
-Tipo de pieza:
-Canal:
-Público objetivo:
-Propósito:
-Responsable:
-Mensaje:
-Tono:
-Llamado a la acción:
-Fuente o criterio de verificación:
-Observaciones editoriales:
+Semana: 2
+Día: viernes 
+Fecha: Pendiente por definir
+Tema: Cierre de difusión responsable
+Tipo de pieza: balance
+Canal: Moodle o mini-sitio 
+Público objetivo: comunidad general 
+Propósito:  Cerrar la campaña y recoger aprendizajes.
+Responsable: equipo docente 
+Mensaje: Consulta el balance final y comparte mejoras para la comunidad.
+Tono: imformativo
+Llamado a la acción: Consulta el balance y propone mejoras.
+Fuente o criterio de verificación: Equipo de seguimiento
+Observaciones editoriales: Revisar coherencia con mensajes anteriores.
 ¿Usa lenguaje responsable y no estigmatizante?
-Respuesta:
+Respuesta: si 

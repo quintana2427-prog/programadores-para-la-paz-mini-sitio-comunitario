@@ -1,8 +1,8 @@
 Pruebas del mini-sitio y API – Clase 21
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Luis Gregorio Quintana Avila 
+Fecha: 25/05/2026
+Nombre de la rama: luis-quintana
 
 Prueba 1: Abrir mini-sitio
 
@@ -12,10 +12,10 @@ http://localhost:3000
 Resultado esperado:
 El navegador muestra el mini-sitio comunitario.
 
-Resultado observado:
+Resultado observado: El navegador mostró correctamente el mini-sitio con botones y secciones para cargar información.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: si
 
 Prueba 2: Cargar mensajes
 
@@ -25,10 +25,10 @@ Hacer clic en Cargar mensajes.
 Resultado esperado:
 Aparecen mensajes comunitarios con título, mensaje, categoría, audiencia, tono, llamado a la acción y fuente.
 
-Resultado observado:
+Resultado observado:  El tablero cargó correctamente los mensajes dinámicos con toda la información enviada desde la API.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: si
 
 Prueba 3: Cargar calendario editorial
 
@@ -38,26 +38,26 @@ Hacer clic en Cargar calendario.
 Resultado esperado:
 Aparecen 6 piezas del calendario editorial.
 
-Resultado observado:
+Resultado observado: La página mostró correctamente las 6 piezas del calendario editorial obtenidas desde la API.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: si
 
 Prueba 4: Ruta directa de mensajes
 
 Ruta:
 http://localhost:3000/api/mensajes
 
-Resultado observado:
+Resultado observado: La ruta mostró los datos JSON de mensajes comunitarios con información estructurada.
 
 Prueba 5: Ruta directa de calendario
 
 Ruta:
 http://localhost:3000/api/calendario
 
-Resultado observado:
+Resultado observado: La ruta mostró correctamente el calendario editorial en formato JSON.
 
 Conclusión:
 ¿Qué prueba te ayudó más a entender cómo el mini-sitio consume la API?
 
-Respuesta:
+Respuesta: La prueba de cargar mensajes me ayudó más porque pude ver cómo el frontend usa fetch para traer datos de la API y mostrarlos dinámicamente en el tablero.

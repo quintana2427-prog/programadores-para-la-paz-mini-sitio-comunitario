@@ -1,8 +1,8 @@
 Reflexión de cierre de Semana 5 – Clase 25
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Luis Gregorio Quintana Avila 
+Fecha: 25/05/2026
+Nombre de la rama: luis-quintana
 
 Escribe una reflexión de 10 a 12 líneas respondiendo:
 
@@ -42,4 +42,8 @@ En tu respuesta menciona al menos ocho de estas ideas:
 - participación ciudadana
 - cultura de paz
 
-Respuesta:
+Respuesta: Al principio de las clases solo hacía ejercicios pequeños y no entendía mucho cómo trabajar en GitHub o usar un repositorio.
+ Con este proyecto aprendí a trabajar mejor usando la rama main y mi rama personal para no dañar el trabajo principal. 
+ También aprendí a usar git pull, git merge, commit y push para guardar y actualizar avances. Me gustó poder unir HTML, CSS y JavaScript con Node.js y Express para crear una API que responde datos en JSON.
+  Aprendí a usar fetch, async y await para cargar información dinámica en el tablero de mensajes y el calendario editorial. Además, entendí la importancia del README para explicar cómo funciona el proyecto.
+   El login pedagógico y el middleware simple me ayudaron a entender cómo funcionan las rutas protegidas. También aprendí que no todo es programar, porque el proyecto trabaja difusión responsable, revisión de fuentes y lenguaje respetuoso para apoyar la participación ciudadana y la cultura de paz.

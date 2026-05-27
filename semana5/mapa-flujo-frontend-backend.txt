@@ -10,58 +10,58 @@ Completa el flujo con tus palabras.
 
 ¿Qué parte del proyecto corresponde al frontend?
 
-Respuesta:
+Respuesta: El frontend corresponde a la parte visual del proyecto, como el HTML, CSS y JavaScript que muestran el tablero y permiten interactuar con los botones.
 
 2. Backend
 
 ¿Qué parte del proyecto corresponde al backend?
 
-Respuesta:
+Respuesta: El backend corresponde al servidor creado con Node.js y Express que maneja las rutas y entrega los datos de la API.
 
 3. API propia
 
 ¿Qué rutas expone la API propia del proyecto?
 
-Respuesta:
+Respuesta: La API expone las rutas /api/mensajes, /api/calendario, /api/resumen, /api/login y /api/revision-editorial.
 
 4. Datos
 
 ¿Qué archivos JSON usa el backend para responder?
 
-Respuesta:
+Respuesta: El backend usa los archivos mensajes.json y calendario-editorial.json.
 
 5. Consulta desde frontend
 
 ¿Qué función de JavaScript se usa para consultar la API?
 
-Respuesta:
+Respuesta: Se usa la función fetch() para consultar la API desde el frontend.
 
 6. Espera de respuesta
 
 ¿Qué palabras se usan para esperar la respuesta del servidor?
 
-Respuesta:
+Respuesta: Se usan las palabras async y await.
 
 7. Conversión de respuesta
 
 ¿Qué hace respuesta.json()?
 
-Respuesta:
+Respuesta:  Convierte la respuesta del servidor en datos JSON que JavaScript puede leer y utilizar.
 
 8. Render dinámico
 
 ¿Qué significa mostrar datos dinámicamente en el tablero?
 
-Respuesta:
+Respuesta: Significa que la información se carga desde la API y aparece automáticamente en la página sin escribir todo manualmente en el HTML.
 
 9. Prueba
 
 ¿Cómo verificaste que la información del tablero coincide con la API?
 
-Respuesta:
+Respuesta: Verifiqué comparando los datos mostrados en el mini-sitio con la información que aparece en los archivos JSON y las rutas de la Api.
 
 10. Propósito comunitario
 
 ¿Cómo ayuda esta integración a mantener información comunitaria actualizable?
 
-Respuesta:
+Respuesta: : Ayuda porque los datos se pueden actualizar desde el backend o los archivos JSON y automáticamente se reflejan en el mini-sitio para la comunidad.

@@ -1,8 +1,8 @@
 Pruebas de login pedagógico – Clase 24
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Luis Gregorio Quintana Avila 
+Fecha: 25/05/2026
+Nombre de la rama: luis-quintana
 
 Importante:
 Este login es solo pedagógico. No es autenticación real.
@@ -12,14 +12,14 @@ Prueba 1: Abrir mini-sitio
 Dirección:
 http://localhost:3000
 
-Resultado observado:
+Resultado observado: El mini-sitio abrió correctamente en el navegador y mostró los botones y secciones del proyecto.
 
 ¿Funcionó?
-Respuesta:
+Respuesta:  si
 
 Prueba 2: Login con credenciales de demostración
 
-Usuario:
+Usuario: 
 docente
 
 Clave:
@@ -28,10 +28,10 @@ demo
 Resultado esperado:
 El servidor responde con mensaje de login pedagógico correcto.
 
-Resultado observado:
+Resultado observado: El sistema mostró un mensaje de login correcto y entregó un token de demostración.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: si
 
 Prueba 3: Login con clave incorrecta
 
@@ -44,21 +44,21 @@ incorrecta
 Resultado esperado:
 El servidor responde que usuario o clave son incorrectos.
 
-Resultado observado:
+Resultado observado:  El sistema mostró un mensaje indicando que las credenciales eran incorrectas.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: si
 
 Prueba 4: Revisar almacenamiento del token de demostración
 
 ¿Qué token de demostración devuelve el servidor?
 
-Respuesta:
+Respuesta: El servidor devuelve el token token-demostracion-clase-24.
 
 5. ¿Por qué este token no debe confundirse con seguridad real?
 
-Respuesta:
+Respuesta: Porque es un token pedagógico creado solo para practicar autenticación y no tiene medidas reales de seguridad ni protección avanzada.
 
 6. ¿Para qué se usará este login en la Clase 25?
 
-Respuesta:
+Respuesta: Se usará para practicar rutas protegidas y controlar el acceso a información del proyecto mediante autenticación básica.

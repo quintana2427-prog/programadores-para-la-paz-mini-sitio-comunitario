@@ -1,8 +1,8 @@
 Evidencia dual de Semana 5 – Clase 25
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Luis Gregorio Quintana Avila
+Fecha: 25/05/2026
+Nombre de la rama: luis-quintana
 
 La evidencia dual de Semana 5 está compuesta por:
 
@@ -10,60 +10,64 @@ La evidencia dual de Semana 5 está compuesta por:
 
 Describe brevemente qué hace el mini-sitio:
 
-Respuesta:
+Respuesta:  El mini-sitio consume una API propia para mostrar mensajes comunitarios, calendario editorial, resumen del proyecto y una ruta protegida de revisión editorial. También permite hacer un login pedagógico con token de demostración.
 
 Rutas probadas:
 
-Respuesta:
+Respuesta: GET /api/mensajes
+GET /api/calendario
+GET /api/resumen
+POST /api/login
+GET /api/revision-editorial
 
 2. README versionado en Git
 
 Explica qué información contiene el README:
 
-Respuesta:
+Respuesta: El README contiene el propósito del proyecto, tecnologías utilizadas, estructura de carpetas, instrucciones de instalación, rutas de la API, flujo de trabajo con Git y recomendaciones sobre uso responsable de IA.
 
 3. Calendario editorial de dos semanas
 
 Describe el tema general del calendario editorial:
 
-Respuesta:
+Respuesta:  El calendario editorial trabaja temas relacionados con convivencia digital, participación ciudadana, lenguaje responsable y verificación de información para la comunidad.
 
 Número de piezas:
 
-Respuesta:
+Respuesta: El calendario editorial tiene 6 piezas distribuidas en dos semanas.
 
 4. Difusión responsable
 
 ¿Cómo garantiza el proyecto una difusión responsable?
 
-Respuesta:
+Respuesta: El proyecto promueve mensajes claros, respetuosos y con información verificada para evitar desinformación y mantener una comunicación adecuada.
 
 5. Revisión de fuentes
 
 ¿Cómo se revisa o menciona la fuente de la información?
 
-Respuesta:
+Respuesta: Cada mensaje y pieza editorial incluye una fuente para que la comunidad pueda identificar de dónde viene la información.
 
 6. Consistencia comunicativa
 
 ¿Cómo se mantiene coherencia entre mensajes y piezas?
 
-Respuesta:
+Respuesta:  Se mantiene usando temas relacionados, lenguaje responsable y objetivos comunitarios similares en todos los mensajes y piezas editoriales.
 
 7. Moderación editorial básica
 
 ¿Qué criterios se deben revisar antes de publicar?
 
-Respuesta:
+Respuesta: Se debe revisar la claridad del mensaje, la fuente, el tono, el llamado a la acción y evitar lenguaje ofensivo o información no verificada.
 
 8. GitHub y trazabilidad
 
 ¿Qué commits o avances registraste durante la semana?
 
-Respuesta:
+Respuesta: Registré avances relacionados con creación de rutas API, consumo de datos con fetch, integración frontend-backend, login pedagógico, ruta protegida y mejoras del mini-sitio comunitario.
 
 9. Conclusión personal
 
 ¿Por qué este proyecto es más completo que un ejercicio técnico aislado?
 
-Respuesta:
+Respuesta: Porque además de programar, el proyecto trabaja comunicación responsable, organización de información, revisión de fuentes y trabajo colaborativo usando Git y GitHub.
